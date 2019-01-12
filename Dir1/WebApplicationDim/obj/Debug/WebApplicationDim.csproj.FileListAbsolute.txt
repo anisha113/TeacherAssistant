@@ -1,0 +1,1523 @@
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\ApplicationInsights.config
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\csc.exe
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\vbc.exe
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\WebApplicationDim.dll.config
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\WebApplicationDim.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\WebApplicationDim.pdb
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Antlr3.Runtime.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\EntityFramework.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.Web.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Newtonsoft.Json.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Owin.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\System.Web.Optimization.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\System.Web.Providers.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\WebGrease.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.Web.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\System.Web.Optimization.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Antlr3.Runtime.pdb
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Newtonsoft.Json.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\EntityFramework.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\System.Web.Providers.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+D:\Google Drive\Visual Studio\WebApplicationDim\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+F:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+F:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+F:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+F:\SDP\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+F:\SDP\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+F:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+F:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+F:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+F:\SDP\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+F:\SDP\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+F:\SDP\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+F:\SDP\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+F:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.dll
+F:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+F:\SDP\Dir1\WebApplicationDim\bin\Owin.dll
+F:\SDP\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+F:\SDP\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+F:\SDP\Dir1\WebApplicationDim\bin\WebGrease.dll
+F:\SDP\Dir1\WebApplicationDim\bin\MySql.Data.dll
+F:\SDP\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SDP\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+F:\SDP\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.xml
+F:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SDP\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SDP\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\SDP\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+E:\SDP\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\SDP\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\SDP\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\SDP\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SDP\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.dll
+E:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\SDP\Dir1\WebApplicationDim\bin\Owin.dll
+E:\SDP\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\SDP\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+E:\SDP\Dir1\WebApplicationDim\bin\WebGrease.dll
+E:\SDP\Dir1\WebApplicationDim\bin\MySql.Data.dll
+E:\SDP\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SDP\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\SDP\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.xml
+E:\SDP\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SDP\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SDP\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+E:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\SDP\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\MySql.Data.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Owin.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebGrease.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\DropBox\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\MySql.Data.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebGrease.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+E:\Dropbox\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\Dropbox\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\MySql.Data.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\Owin.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\WebGrease.dll
+E:\Dropbox\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\MySql.Data.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Owin.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\WebGrease.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+D:\Asp.net\Amra NOOB Team Folder\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rCr\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\Ragib\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\prant\Desktop\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\MySql.Data.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Owin.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebGrease.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Amra NOOB Team Folder\Mim\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\sadia\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Owin.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\WebGrease.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\Anik\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\2-2 term\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\2-2 term\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\prant\Dropbox\Amra NOOB Team Folder\2-2 term\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\ma\Dropbox\Amra NOOB Team Folder\2-2 term\150213,150219,150231\Dir1\WebApplicationDim\obj\Debug\WebApplicationDim.csprojResolveAssemblyReference.cache
